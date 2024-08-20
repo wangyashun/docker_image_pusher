@@ -2,4 +2,4 @@ alpine
 hello-world
 node
 rust
-docker/getting-started:latest
+docker/getting-started
