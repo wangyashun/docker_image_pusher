@@ -4,3 +4,4 @@ node
 rust
 docker/getting-started
 nginx
+java8
